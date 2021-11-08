@@ -1,0 +1,13 @@
+connection_string:
+  ARIES_RSV:
+    driver: "{SQL Server}"
+    server: "ENC-AZSQL01"
+    database: ARIES_RSV
+  CORP_ENG_DATA_TOOLS:
+    driver: "{SQL Server}"
+    server: "ENC-AZSQL01"
+    database: CORP_ENG_DATA_TOOLS
+  ARIES_RSV_DEV:
+    driver: "{SQL Server}"
+    server: "ENC-AZSQL01"
+    database: CORP_ENG_DATA_TOOLS
